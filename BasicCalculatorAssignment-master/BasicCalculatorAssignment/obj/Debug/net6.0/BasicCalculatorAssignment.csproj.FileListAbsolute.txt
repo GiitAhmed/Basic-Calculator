@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.exe
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.deps.json
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.dll
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.pdb
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.dll
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\refint\BasicCalculatorAssignment.dll
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.pdb
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\ref\BasicCalculatorAssignment.dll
